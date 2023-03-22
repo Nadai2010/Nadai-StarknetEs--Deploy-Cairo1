@@ -218,4 +218,4 @@ Si estás interesado en:
 - Cómo funcionan las pruebas Stark
 - Únete a nuestra comunidad [StarkNet-Es Telegram](https://twitter.com/StarkNetEs)
 - Síguenos en nuestro Twitter [StarkNet Español](https://t.me/starknet_es)
-- Deberías unirte a Basecamp, nuestro programa de formación gratuito de 6 semanas para aspirantes a desarrolladores de Starknet. Las dos próximas cohortes comienzan en abril y puedes inscribirte[aquí](https://forms.reform.app/starkware/starknet-basecamp-registration-starting-jan-4th-copy-2/itvk4e) for a cohort in English, and [aqui](https://forms.reform.app/starkware/starknet-basecamp-registration-starting-apr-11th-copy/itvk4e) para una cohort en Español.
+- Deberías unirte a Basecamp, nuestro programa de formación gratuito de 6 semanas para aspirantes a desarrolladores de Starknet. Las dos próximas cohortes comienzan en abril y puedes inscribirte [aquí](https://forms.reform.app/starkware/starknet-basecamp-registration-starting-jan-4th-copy-2/itvk4e) for a cohort in English, and [aqui](https://forms.reform.app/starkware/starknet-basecamp-registration-starting-apr-11th-copy/itvk4e) para una cohort en Español.
