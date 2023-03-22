@@ -8,7 +8,7 @@
 </div>
 
 ## Desplegando tu primer contrato Cairo 1 en Starknet
-Esta es una guía oficial de StarkNet-Es para la comunidad hispana, puede consultar repo oficail [aquí](https://github.com/starknet-edu/deploy-cairo1-demo), que te ayudará a desplegar tus primeros contratos Cairo 1 en Starknet. Incluimos algunas explicaciones adicionales y capturas de pantalla para ayudarte a entender mejor el proceso.
+Esta es una guía oficial de StarkNet-Es para la comunidad hispana, puede consultar repo oficial [aquí](https://github.com/starknet-edu/deploy-cairo1-demo), que te ayudará a desplegar tus primeros contratos Cairo 1 en Starknet. Incluimos algunas explicaciones adicionales y capturas de pantalla para ayudarte a entender mejor el proceso.
 
 Antes de comenzar, es importante que tengas una comprensión básica de lo que son Cairo y Starknet. Cairo es un lenguaje de programación de contratos inteligentes y Starknet es una plataforma de contrato inteligente sin permisos basada en la tecnología zk-rollup.
 
@@ -20,8 +20,8 @@ Con el despliegue de la [versión 0.11](https://starkware.medium.com/starknet-al
 Para completar necesitarás hacer lo siguiente:
 
 - Instalar las dependencias necesarias, como Git y Python.
-- Clonar el repositorio de demostración "deploy-cairo1-demo", la herramienta para compilar tu contrato Cairo 1)
-- Instalar la última versión de Cairo-lang (la herramienta para interactuar con Starknet)
+- Clonar el repositorio de demostración "deploy-cairo1-demo", la herramienta para compilar tu contrato Cairo 1.
+- Instalar la última versión de Cairo-lang, la herramienta para interactuar con Starknet.
 - Compilar tu contrato Cairo 1 en formato Sierra.
 - Declarar tu contrato Sierra utilizando Cairo-lang.
 - Desplegar tu contrato en Starknet utilizando Cairo-lang.
@@ -29,7 +29,7 @@ Para completar necesitarás hacer lo siguiente:
 
 ---
 ## Clone Repo
-Primero, clona el repositorio de demostración "deploy-cairo1-demo" utilizando Git.
+Primero, clona el repositorio de demostración `deploy-cairo1-demo` utilizando Git.
 
 ```bash
 git clone https://github.com/starknet-edu/deploy-cairo1-demo
@@ -216,7 +216,6 @@ Si estás interesado en:
 - Cómo funciona Starknet
 - Qué es Cairo
 - Cómo funcionan las pruebas Stark
-
 - Únete a nuestra comunidad [StarkNet-Es Telegram](https://twitter.com/StarkNetEs)
 - Síguenos en nuestro Twitter [StarkNet Español](https://t.me/starknet_es)
 - Deberías unirte a Basecamp, nuestro programa de formación gratuito de 6 semanas para aspirantes a desarrolladores de Starknet. Las dos próximas cohortes comienzan en abril y puedes inscribirte[aquí](https://forms.reform.app/starkware/starknet-basecamp-registration-starting-jan-4th-copy-2/itvk4e) for a cohort in English, and [aqui](https://forms.reform.app/starkware/starknet-basecamp-registration-starting-apr-11th-copy/itvk4e) para una cohort en Español.
