@@ -198,9 +198,9 @@ Monitorea tu transacción y, en caso de que falle debido a la estimación de tas
 
 Una vez que su transacción es `accepted_on_l2`.... ¡Enhorabuena! ¡Has desplegado tu primer contrato Cairo 1! Puedes verificar que el contrato se ha desplegado correctamente siguiendo este enlace: 
 
-- [Contract Cairo 1.0](https://testnet.starkscan.co/contract/0x0479ba9b1aa1e2746214f0669c9057181a72edcfe1961afa33e01dac8ea22c83#read-write-contract-sub-write)
-
 ![Graph](/im%C3%A1genes/deploycairo1.png)
+
+- [Contract Cairo 1.0](https://testnet.starkscan.co/contract/0x0479ba9b1aa1e2746214f0669c9057181a72edcfe1961afa33e01dac8ea22c83#read-write-contract-sub-write)
 
 ---
 ## Presumir en Twitter
