@@ -126,7 +126,7 @@ export STARKNET_WALLET=starkware.starknet.wallets.open_zeppelin.OpenZeppelinAcco
 
 ### Configurar una nueva cuenta para el tutorial
 
-Usted necesita asegurarse de que su CLI starknet está configurado con un contrato de cuenta adecuada, y los fondos. Por seguirdad crearemos un nueva nueva. Para crear una nueva cuenta, ejecuta el siguiente comando:
+Usted necesita asegurarse de que su CLI starknet está configurado con un contrato de cuenta adecuada, y los fondos. Por seguridad crearemos un nueva cuenta. Para crear una nueva cuenta, ejecuta el siguiente comando:
 
 ```bash
 starknet new_account --account version_11_test
@@ -204,7 +204,7 @@ Una vez que su transacción es `accepted_on_l2`.... ¡Enhorabuena! ¡Has despleg
 
 ---
 ## Presumir en Twitter
-¡No te olvides de presumir de tu logro en Twitter! Publica tu contrato desplegado[aquí](https://twitter.com/henrlihenrli/status/1638468939939282945)
+¡No te olvides de presumir de tu logro en Twitter! Publica tu contrato desplegado [aquí](https://twitter.com/henrlihenrli/status/1638468939939282945)
 
 Además, ¡añade nuevas funcionalidades interesantes a tu contrato! El equipo de Starknet edu lanzará pronto la versión Cairo 1 de [Cairo-101](https://github.com/starknet-edu/starknet-cairo-101). Mientras tanto, puedes obtener ideas de qué hacer con Cairo 1 en [Starklings-cairo1](https://github.com/shramee/starklings-cairo1)
 
@@ -218,4 +218,4 @@ Si estás interesado en:
 - Cómo funcionan las pruebas Stark
 - Únete a nuestra comunidad [StarkNet-Es Telegram](https://twitter.com/StarkNetEs)
 - Síguenos en nuestro Twitter [StarkNet Español](https://t.me/starknet_es)
-- Deberías unirte a Basecamp, nuestro programa de formación gratuito de 6 semanas para aspirantes a desarrolladores de Starknet. Las dos próximas cohortes comienzan en abril y puedes inscribirte [aquí](https://forms.reform.app/starkware/starknet-basecamp-registration-starting-jan-4th-copy-2/itvk4e) for a cohort in English, and [aqui](https://forms.reform.app/starkware/starknet-basecamp-registration-starting-apr-11th-copy/itvk4e) para una cohort en Español.
+- Deberías unirte a Basecamp, nuestro programa de formación gratuito de 6 semanas para aspirantes a desarrolladores de Starknet. Las dos próximas cohortes comienzan en abril y puedes inscribirte [aquí](https://forms.reform.app/starkware/starknet-basecamp-registration-starting-jan-4th-copy-2/itvk4e) para la cohorte en Inglés, y [aqui](https://forms.reform.app/starkware/starknet-basecamp-registration-starting-apr-11th-copy/itvk4e) para la cohorte en Español.
