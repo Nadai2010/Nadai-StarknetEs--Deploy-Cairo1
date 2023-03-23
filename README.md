@@ -8,7 +8,7 @@
 </div>
 
 ## Desplegando tu primer contrato Cairo 1 en Starknet
-Esta es una guía oficial de StarkNet-Es para la comunidad hispana, puede consultar repo oficial [aquí](https://github.com/starknet-edu/deploy-cairo1-demo), que te ayudará a desplegar tus primeros contratos Cairo 1 en Starknet. Incluimos algunas explicaciones adicionales y capturas de pantalla para ayudarte a entender mejor el proceso.
+Esta es una guía oficial de StarkNet-Es para la comunidad hispana, puede consultar repo oficial [aquí](https://github.com/starknet-edu/deploy-cairo1-demo) o el video de Henri [Desplegando Cairo 1](https://twitter.com/i/broadcasts/1OwGWwoewekGQ), que te ayudará a desplegar tus primeros contratos Cairo 1 en Starknet. Incluimos algunas explicaciones adicionales y capturas de pantalla para ayudarte a entender mejor el proceso.
 
 Antes de comenzar, es importante que tengas una comprensión básica de lo que son Cairo y Starknet. Cairo es un lenguaje de programación de contratos inteligentes y Starknet es una plataforma de contrato inteligente sin permisos basada en la tecnología zk-rollup.
 
